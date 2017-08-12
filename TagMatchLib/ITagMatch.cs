@@ -7,6 +7,7 @@ namespace TagMatchLib
     public interface ITagMatch
     {
         string tag { get; set; }
+        //not required
         // bool IgnoreCase { get; set; }
         string inputStr { get; set; }
         bool ValidateStart();
