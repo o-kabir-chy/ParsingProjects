@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Md. Obaidul Kabir Chowdhury</Authors>
+    <Company>ProspectBD Software</Company>
+    <Copyright>ProspectDB Software Ltd, Dhaka, 2017</Copyright>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageTags>Tag, XML Tag parsing</PackageTags>
+    <PackageReleaseNotes>This is the first version of Tag Match</PackageReleaseNotes>
+    <Description>This software match any XML tag</Description>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>TagMatchKey.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>
